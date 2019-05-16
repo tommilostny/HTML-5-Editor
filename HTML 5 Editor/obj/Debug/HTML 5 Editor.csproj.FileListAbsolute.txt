@@ -1,0 +1,89 @@
+U:\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe.config
+U:\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe
+U:\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.pdb
+U:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csprojResolveAssemblyReference.cache
+U:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Form1.resources
+U:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Properties.Resources.resources
+U:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.GenerateResource.Cache
+U:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.CoreCompileInputs.cache
+U:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.exe
+U:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.pdb
+F:\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe.config
+F:\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe
+F:\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.pdb
+F:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csprojResolveAssemblyReference.cache
+F:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Form1.resources
+F:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Properties.Resources.resources
+F:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.GenerateResource.cache
+F:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.CoreCompileInputs.cache
+F:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.exe
+F:\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.pdb
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe.config
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.pdb
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csprojAssemblyReference.cache
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Properties.Resources.resources
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.GenerateResource.cache
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.CoreCompileInputs.cache
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.exe
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.pdb
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Form2.resources
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csprojResolveAssemblyReference.cache
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Form1.resources
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Form2.resources
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Properties.Resources.resources
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.GenerateResource.Cache
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.CoreCompileInputs.cache
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.exe
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.pdb
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe.config
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.pdb
+C:\Users\milostnyt.99\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.insertTagForm.resources
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.insertTagForm.resources
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.gotoLineForm.resources
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.MainForm.resources
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe.manifest
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.application
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.TrustInfo.xml
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.exe.manifest
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.application
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe.config
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe.manifest
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.application
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.pdb
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csprojAssemblyReference.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.gotoLineForm.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.MainForm.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Form2.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.insertTagForm.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Properties.Resources.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.GenerateResource.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.CoreCompileInputs.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.TrustInfo.xml
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.exe.manifest
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.application
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.exe
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.pdb
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.ErrorListForm.resources
+C:\Users\tommi\OneDrive\SPŠT\PSA4 2018-2019\ROP\HTML 5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.ErrorListForm.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe.config
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe.manifest
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.application
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.exe
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\bin\Debug\HTML 5 Editor.pdb
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csprojAssemblyReference.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.ErrorListForm.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.gotoLineForm.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.MainForm.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Form2.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.insertTagForm.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML_5_Editor.Properties.Resources.resources
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.GenerateResource.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.csproj.CoreCompileInputs.cache
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.TrustInfo.xml
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.exe.manifest
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.application
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.exe
+C:\Users\tommi\Desktop\Visual Studio local projects\HTML5 Editor\HTML 5 Editor\obj\Debug\HTML 5 Editor.pdb

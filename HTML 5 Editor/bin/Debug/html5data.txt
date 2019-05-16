@@ -1,0 +1,112 @@
+﻿<!--  -->;poznámka;...;nn;nn;nn
+!DOCTYPE;specifikace DTD;...;html-;nn;nn
+a;odkaz, hyperlink, záložka;ano;href;download,hreflang,media,ping,rel,target,type;both
+abbr;ustálený výraz;ano;title;nn;both
+address;adresa;ano;nn;nn;both
+area;oblast v obrázkové mapě uvnitř značky <map>;ne;shape,coords,href,alt;download,hreflang,media,rel,target,type;both
+article;definuje článek;ano;nn;nn;both
+aside;obsah mimo hlavní obsah;ano;nn;nn;both
+audio;zvukový přehrávač;ano;controls-;autoplay,loop,muted,preload,src;both
+b;tučné písmo;ano;nn;nn;both
+base;základ odkazů;ne;href;target;global
+bdi;izoluje část textu, může být jinak formátován;ano;nn;nn;both
+bdo;přepíše aktuální směr textu;ano;dir;nn;both
+blockquote;citace, odsazení;ano;nn;cite;both
+body;tělo stránky + definice pozadí;ano;nn;nn;both
+br;řádkový zlom;ne;nn;nn;both
+button;tlačítko;ano;type,name,value;autofocus,disabled,form,formaction,formenctype,formmethod,formnovalidate,formtarget;both
+canvas;vykreslení grafiky pomocí skriptu;ano;nn;nn;both
+caption;hlavička tabulky;ano;nn;nn;both
+cite;citace;ano;nn;nn;both
+code;výpis kódu;ano;nn;nn;both
+col;ovlivnění sloupce tabulky;ne;span;nn;both
+colgroup;skupina sloupců tabulky;ano;span;nn;both
+data;propojí daný obsah se strojově čitelným překladem;ano;value;nn;global
+datalist;určuje seznam předem definovaných možností vstupních prvků;ano;nn;nn;both
+dd;definice termínu;ano;nn;nn;both
+del;smazaný obsah;ano;nn;cite,datetime;both
+details;další detaily, které může uživatel zobrazit nebo skrýt;ano;nn;open;both
+dfn;nově použitý termín;ano;nn;nn;both
+dialog;dialogové okno;ano;open-;nn;both
+div;oddíl;ano;nn;nn;both
+dl;seznam definic;ano;nn;nn;both
+dt;definovaný termín;ano;nn;nn;both
+em;zvýraznění (kurzíva);ano;nn;nn;both
+embed;kontejner pro externí aplikaci (ne HTML);ano;src;height,type,width;both
+fieldset;skupina polí;ano;nn;disabled,form,name;both
+figcaption;popisek pro element <figure>;ano;nn;nn;both
+figure;určuje samostatný obsah;ano;nn;nn;both
+footer;kontejner pro patičku webu;ano;nn;nn;both
+form;formulář;ano;action,method;accept-charset,autocomplete,enctype,name,novalidate,target;both
+h1;nadpis 1. úrovně;ano;nn;nn;both
+h2;nadpis 2 úrovně;ano;nn;nn;both
+h3;nadpis 3. úrovně;ano;nn;nn;both
+h4;nadpis 4. úrovně;ano;nn;nn;both
+h5;nadpis 5. úrovně;ano;nn;nn;both
+h6;nadpis 6. úrovně;ano;nn;nn;both
+head;hlavička stránky;ano;nn;nn;global
+header;definuje nadpis dokumentu nebo sekce;ano;nn;nn;both
+hr;vodorovná čára;ne;nn;nn;both
+html;začátek HTML dokumentu;ano;nn;xmlns;global
+i;kurzíva;ano;nn;nn;both
+iframe;vložený rám;ano;src;height,name,sandbox,srcdoc,width;both
+img;obrázek;ne;src,alt;crossorigin,height,ismap,longdesc,sizes,srcset,usemap,width;both
+input;vstupní pole;ne;type,value;accept,alt,autocomplete,autofocus,checked,dirname,disabled,form,formaction,formenctype,formmethod,formnovalidate,formtarget,height,list,max,maxlenght,min,multiple,name,pattern,placeholder,readonly,required,size,src,step,width;both
+ins;přidaný text;ano;nn;cite,datetime;both
+kbd;vstup z klávesnice;ano;nn;nn;both
+label;popis pro id;ano;for;form;both
+legend;popis pole;ano;nn;nn;both
+li;položka seznamu;ano;nn;value;both
+link;nezobrazovaný odkaz;ne;rel,type,href;crossorigin,hreflang,media,sizes;both
+main;definuje mapu obrázků na straně klienta;ano;nn;nn;both
+map;mapa obrázků na straně klienta;ano;name;nn;both
+mark;zvýrazněný text;ano;nn;nn;both
+meta;definuje metadata o HTML dokumentu;ne;name,content;charset,http-equiv;global
+meter;skalární měření v rámci známého rozsahu (měřidlo);ano;value;form,high,low,max,min,optimum;both
+nav;definuje navigaci na webu;ano;nn;nn;both
+noscript;alternativa ke skriptu;ano;nn;nn;global
+object;definuje vložený objekt;ano;data;form,height,name,type,usemap,width;both
+ol;číslovaný seznam;ano;nn;reversed,start,type;both
+optgroup;skupina voleb;ano;label;disabled;both
+option;volba;ano;value;disabled,label,selected;both
+output;definuje výsledek kalkulace formuláře;ano;name,for;form;both
+p;odstavec;ano;nn;nn;both
+param;parametry objektu;ne;name,value;nn;both
+picture;kontejner pro více prostředků obrázku;ano;nn;nn;both
+pre;předformátovaný text;ano;nn;nn;both
+progress;představuje průběh úkolu;ano;value,max;nn;both
+q;citace;ano;nn;cite;both
+rp;zobrazí se v prohlížečích, které nepodporují Ruby poznámky;ano;nn;nn;both
+rt;definuje vysvětlení pro typografii východoasijských jazyků;ano;nn;nn;both
+ruby;poznámka Ruby (pro typografii východoasijských jazyků);ano;nn;nn;both
+s;přeškrtnutý text;ano;nn;nn;both
+samp;ukázka výstupu;ano;nn;nn;both
+script;skript, program;ano;nn;async,charset,defer,src,type;global
+section;sekce/oddíl v dokumentu;ano;nn;nn;both
+select;výběrové pole;ano;nn;autofocus,disabled,form,multiple,name,required,size;both
+small;zmenšení textu;ano;nn;nn;both
+source;definuje více multimediálních prostředků pro <video> a <audio>;ne;src,type;srcset,media,sizes;both
+span;úsek textu;ano;nn;nn;both
+strong;zvýraznění (tučně) důležitého textu;ano;nn;nn;both
+style;zápis CSS stylu;ano;nn;media,type;both
+sub;dolní index;ano;nn;nn;both
+summary;viditelný nadpis prvku <details>;ano;nn;nn;both
+sup;horní index;ano;nn;nn;both
+svg;kontejner pro SVG grafiku;ano;width,height;nn;nn
+table;tabulka;ano;nn;nn;both
+tbody;tělo tabulky;ano;nn;nn;both
+td;buňka tabulky;ano;nn;colspan,headers,rowspan;both
+template;definuje šablonu;ano;nn;nn;global
+textarea;velké vstupní pole;ano;nn;autofocus,cols,dirname,disabled,form,maxlength,name,placeholder,readonly,required,rows,wrap;both
+tfoot;patička tabulky;ano;nn;nn;both
+th;hlavičková buňka tabulky;ano;nn;abbr,colspan,headers,rowspan,scope,sorted;both
+thead;hlavička tabulky;ano;nn;nn;both
+time;definuje datum/čas;ano;nn;datetime;both
+title;titulek stránky;ano;nn;nn;global
+tr;řádek tabulky;ano;nn;nn;both
+track;definuje textové stopy pro <video> a <audio>;ano;src,kind,srclang,label;default;both
+u;podtržení textu;ano;nn;nn;both
+ul;odrážkový seznam;ano;nn;nn;both
+var;definice proměnné;ano;nn;nn;both
+video;přehrávač videa;ano;controls-;autoplay,height,loop,muted,poster,preload,src,width;both
+wbr;definuje možné zalomení řádku;ne;nn;nn;both

@@ -1,0 +1,15 @@
+accesskey
+class
+contenteditable
+data-*
+dir
+draggable
+dropzone
+hidden
+id
+lang
+spellcheck
+style
+tabindex
+title
+translate
