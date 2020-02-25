@@ -1,3 +1,4 @@
+C:\Users\tommi\Desktop\Web projects\vlast.html
 C:\Users\tommi\Desktop\test1.html
 C:\Users\tommi\Desktop\test.html
 C:\Users\tommi\OneDrive\Záloha webů\TaF v2\css\fluent.css
@@ -16,7 +17,6 @@ C:\Users\tommi\OneDrive\Záloha webů\WWW projekt\Bootstrap\exterier.html
 C:\Users\tommi\OneDrive\Záloha webů\WWW projekt\CSS\style.css
 C:\Users\tommi\OneDrive\Záloha webů\WWW projekt\HTML\kontakt.html
 C:\Users\tommi\OneDrive\Záloha webů\WWW projekt\HTML\omne.html
-C:\Users\tommi\Desktop\Web projects\vlast.html
 C:\Users\tommi\Desktop\Web projects\dmence.html
 C:\Users\tommi\Desktop\Web projects\wtf.html
 C:\Users\tommi\Desktop\Web projects\volba.html
